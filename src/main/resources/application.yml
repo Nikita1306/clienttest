@@ -1,6 +1,6 @@
 test:
-  rCount: 12
-  wCount: 12
-  idList: 1,20
+  rCount: 10000
+  wCount: 10000
+  idList: 1,5
 server:
   port: 8090
